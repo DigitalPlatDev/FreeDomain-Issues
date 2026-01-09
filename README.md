@@ -1,6 +1,8 @@
-# US.KG-Issues
-US.KG Bugs &amp; Problem report
+# DigitalPlat Domain Issues
 
-We are phasing out our email support system and switching to GitHub Issues. If you have a new question about US.KG, please open an issue here.
+Please submit bugs, feature requests, or questions via GitHub Issues:  
+👉 [You can submit issues here https://github.com/DigitalPlatDev/FreeDomain-Issues/issues](https://github.com/DigitalPlatDev/FreeDomain-Issues/issues)
 
-##### Please do not send emails regarding any issues, as we will not respond.
+DigitalPlat is a small, volunteer-driven project. We do our best to review all issues, but responses may take some time.
+
+If your issue is urgent or account-related, you can also reach us at contact@digitalplat.org.
